@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d0f072ab-bd9b-41de-9b09-61d328feba61" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,61 +10,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1iK0764VxFmwdlnQriiwp8zewdR" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -80,6 +43,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d0f072ab-bd9b-41de-9b09-61d328feba61" name="Default Changelist" comment="" />
@@ -89,5 +53,31 @@
       <updated>1601640812929</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="146" width="540" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601704370010">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="525" y="146" width="540" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.30.1600.870@0.30.1600.870" timestamp="1601704370010" />
+    <state x="583" y="209" width="424" height="515" key="FileChooserDialogImpl" timestamp="1601704312813">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="583" y="209" width="424" height="515" key="FileChooserDialogImpl/0.30.1600.870@0.30.1600.870" timestamp="1601704312813" />
+    <state width="1554" height="269" key="GridCell.Tab.0.bottom" timestamp="1601704488470">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1554" height="269" key="GridCell.Tab.0.bottom/0.30.1600.870@0.30.1600.870" timestamp="1601704488470" />
+    <state width="1554" height="269" key="GridCell.Tab.0.center" timestamp="1601704488469">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1554" height="269" key="GridCell.Tab.0.center/0.30.1600.870@0.30.1600.870" timestamp="1601704488469" />
+    <state width="1554" height="269" key="GridCell.Tab.0.left" timestamp="1601704488468">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1554" height="269" key="GridCell.Tab.0.left/0.30.1600.870@0.30.1600.870" timestamp="1601704488468" />
+    <state width="1554" height="269" key="GridCell.Tab.0.right" timestamp="1601704488470">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1554" height="269" key="GridCell.Tab.0.right/0.30.1600.870@0.30.1600.870" timestamp="1601704488470" />
   </component>
 </project>
